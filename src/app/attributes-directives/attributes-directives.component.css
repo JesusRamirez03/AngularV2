@@ -25,14 +25,10 @@
     margin-left: 10px;
   }
 
-  /* styles.css */
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-router-outlet + * {
+/* structural-directives.component.css */
+:host {
   display: block;
   height: 100%;
+  padding: 20px;
+  background-color: #f0f0f0;
 }
