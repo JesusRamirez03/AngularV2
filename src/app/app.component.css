@@ -1,0 +1,26 @@
+/* app.component.css */
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .highlight {
+    background-color: yellow;
+  }
+  
+  .bold-text {
+    font-weight: bold;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  input {
+    padding: 5px;
+    margin-left: 10px;
+  }
